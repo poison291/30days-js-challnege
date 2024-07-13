@@ -61,7 +61,6 @@ console.log(typeof feature);
 
 //! This code print the lastest value
 
-
 const feature2 = {
     email: "alujuvcih@vodigeef.gg",
     addres: "386 Vobfo Trail"
@@ -76,4 +75,4 @@ console.log(feature2);
 console.log(typeof feature2);
 
 //! It gives error bcz in const u can assign multiple value of single variable
-//? Day 1 completed
+//? Day 1 complete
