@@ -76,3 +76,4 @@ console.log(feature2);
 console.log(typeof feature2);
 
 //! It gives error bcz in const u can assign multiple value of single variable
+//? Day 1 completed
